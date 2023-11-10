@@ -1,0 +1,14 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\bin\Debug\net8.0\Değişkenler ve veri tipleri.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\bin\Debug\net8.0\Değişkenler ve veri tipleri.deps.json
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\bin\Debug\net8.0\Değişkenler ve veri tipleri.runtimeconfig.json
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\bin\Debug\net8.0\Değişkenler ve veri tipleri.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\bin\Debug\net8.0\Değişkenler ve veri tipleri.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.AssemblyInfoInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.AssemblyInfo.cs
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\refint\Değişkenler ve veri tipleri.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\Değişkenler ve veri tipleri.genruntimeconfig.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Değişkenler ve veri tipleri\obj\Debug\net8.0\ref\Değişkenler ve veri tipleri.dll
