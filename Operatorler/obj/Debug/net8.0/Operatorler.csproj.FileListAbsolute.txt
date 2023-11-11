@@ -1,0 +1,14 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\bin\Debug\net8.0\Operatorler.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\bin\Debug\net8.0\Operatorler.deps.json
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\bin\Debug\net8.0\Operatorler.runtimeconfig.json
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\bin\Debug\net8.0\Operatorler.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\bin\Debug\net8.0\Operatorler.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\refint\Operatorler.dll
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\Operatorler.genruntimeconfig.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Operatorler\obj\Debug\net8.0\ref\Operatorler.dll
