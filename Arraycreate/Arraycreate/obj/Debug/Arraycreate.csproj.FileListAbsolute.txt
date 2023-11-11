@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\bin\Debug\Arraycreate.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\bin\Debug\Arraycreate.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\bin\Debug\Arraycreate.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\obj\Debug\Arraycreate.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\obj\Debug\Arraycreate.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\obj\Debug\Arraycreate.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Arraycreate\Arraycreate\obj\Debug\Arraycreate.pdb
