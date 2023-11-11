@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\bin\Debug\Switch_Case_uygulama.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\bin\Debug\Switch_Case_uygulama.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\bin\Debug\Switch_Case_uygulama.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\obj\Debug\Switch_Case_uygulama.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\obj\Debug\Switch_Case_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\obj\Debug\Switch_Case_uygulama.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Switch_Case_uygulama\Switch_Case_uygulama\obj\Debug\Switch_Case_uygulama.pdb
