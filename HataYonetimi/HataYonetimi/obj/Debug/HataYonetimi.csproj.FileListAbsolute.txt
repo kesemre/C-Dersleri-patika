@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\bin\Debug\HataYonetimi.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\HataYonetimi\HataYonetimi\obj\Debug\HataYonetimi.pdb
