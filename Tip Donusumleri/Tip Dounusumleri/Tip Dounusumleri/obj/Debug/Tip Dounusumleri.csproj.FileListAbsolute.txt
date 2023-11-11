@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\bin\Debug\Tip Dounusumleri.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\bin\Debug\Tip Dounusumleri.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\bin\Debug\Tip Dounusumleri.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\obj\Debug\Tip Dounusumleri.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\obj\Debug\Tip Dounusumleri.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\obj\Debug\Tip Dounusumleri.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Tip Donusumleri\Tip Dounusumleri\Tip Dounusumleri\obj\Debug\Tip Dounusumleri.pdb
