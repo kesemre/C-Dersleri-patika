@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\ForLoops\ForLoops\obj\Debug\ForLoops.pdb
