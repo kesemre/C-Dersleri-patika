@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\bin\Debug\Generic Koleksiyonlar ve List.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\bin\Debug\Generic Koleksiyonlar ve List.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\bin\Debug\Generic Koleksiyonlar ve List.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\obj\Debug\Generic Koleksiyonlar ve List.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\obj\Debug\Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\obj\Debug\Generic Koleksiyonlar ve List.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Generic Koleksiyonlar ve List\Generic Koleksiyonlar ve List\obj\Debug\Generic Koleksiyonlar ve List.pdb
