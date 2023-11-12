@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\bin\Debug\Extension ve Rekürsif Metotlar.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\bin\Debug\Extension ve Rekürsif Metotlar.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\bin\Debug\Extension ve Rekürsif Metotlar.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\obj\Debug\Extension ve Rekürsif Metotlar.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\obj\Debug\Extension ve Rekürsif Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\obj\Debug\Extension ve Rekürsif Metotlar.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Extension ve Rekürsif Metotlar\Extension ve Rekürsif Metotlar\obj\Debug\Extension ve Rekürsif Metotlar.pdb
