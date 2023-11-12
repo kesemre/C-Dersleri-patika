@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\bin\Debug\Array List.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\bin\Debug\Array List.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\bin\Debug\Array List.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\obj\Debug\Array List.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\obj\Debug\Array List.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\obj\Debug\Array List.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Array List\Array List\obj\Debug\Array List.pdb
