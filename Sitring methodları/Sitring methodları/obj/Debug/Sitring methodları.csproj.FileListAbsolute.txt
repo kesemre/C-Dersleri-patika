@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\bin\Debug\Sitring methodları.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\bin\Debug\Sitring methodları.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\bin\Debug\Sitring methodları.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\obj\Debug\Sitring methodları.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\obj\Debug\Sitring methodları.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\obj\Debug\Sitring methodları.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sitring methodları\Sitring methodları\obj\Debug\Sitring methodları.pdb
