@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\bin\Debug\Methodlar 1 Ödev.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\bin\Debug\Methodlar 1 Ödev.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\bin\Debug\Methodlar 1 Ödev.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\obj\Debug\Methodlar 1 Ödev.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\obj\Debug\Methodlar 1 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\obj\Debug\Methodlar 1 Ödev.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Methodlar 1 Ödev\Methodlar 1 Ödev\obj\Debug\Methodlar 1 Ödev.pdb
