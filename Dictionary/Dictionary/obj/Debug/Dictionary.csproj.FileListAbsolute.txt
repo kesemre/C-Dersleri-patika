@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
