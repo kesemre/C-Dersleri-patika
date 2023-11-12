@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\bin\Debug\Ödev1_2.soru.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\bin\Debug\Ödev1_2.soru.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\bin\Debug\Ödev1_2.soru.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\obj\Debug\Ödev1 2. soru.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\obj\Debug\Ödev1 2. soru.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\obj\Debug\Ödev1_2.soru.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Ödev1 2. soru\Ödev1 2. soru\obj\Debug\Ödev1_2.soru.pdb
