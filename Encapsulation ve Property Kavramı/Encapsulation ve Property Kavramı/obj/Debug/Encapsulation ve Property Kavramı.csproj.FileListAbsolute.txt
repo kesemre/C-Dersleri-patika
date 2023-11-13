@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\Encapsulation ve Property Kavramı.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\Encapsulation ve Property Kavramı.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\Encapsulation ve Property Kavramı.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\Encapsulation ve Property Kavramı.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\Encapsulation ve Property Kavramı.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\Encapsulation ve Property Kavramı.pdb
