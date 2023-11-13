@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\bin\Debug\Sınıf nedir.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\bin\Debug\Sınıf nedir.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\bin\Debug\Sınıf nedir.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\obj\Debug\Sınıf nedir.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\obj\Debug\Sınıf nedir.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\obj\Debug\Sınıf nedir.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Sınıf nedir\Sınıf nedir\obj\Debug\Sınıf nedir.pdb
