@@ -1,0 +1,7 @@
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\Static Sınıf ve Üyeler.exe.config
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\Static Sınıf ve Üyeler.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\bin\Debug\Static Sınıf ve Üyeler.pdb
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\Static Sınıf ve Üyeler.csproj.AssemblyReference.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\Static Sınıf ve Üyeler.exe
+C:\Users\HUWEI\Desktop\C# Dersleri\C# 101\Static Sınıf ve Üyeler\Static Sınıf ve Üyeler\obj\Debug\Static Sınıf ve Üyeler.pdb
