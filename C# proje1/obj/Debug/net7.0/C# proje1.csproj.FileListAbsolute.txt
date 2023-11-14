@@ -1,0 +1,15 @@
+/home/emre/Masaüstü/C#_Projeler/C# proje1/bin/Debug/net7.0/C# proje1
+/home/emre/Masaüstü/C#_Projeler/C# proje1/bin/Debug/net7.0/C# proje1.deps.json
+/home/emre/Masaüstü/C#_Projeler/C# proje1/bin/Debug/net7.0/C# proje1.runtimeconfig.json
+/home/emre/Masaüstü/C#_Projeler/C# proje1/bin/Debug/net7.0/C# proje1.dll
+/home/emre/Masaüstü/C#_Projeler/C# proje1/bin/Debug/net7.0/C# proje1.pdb
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.csproj.AssemblyReference.cache
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.GeneratedMSBuildEditorConfig.editorconfig
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.AssemblyInfoInputs.cache
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.AssemblyInfo.cs
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.csproj.CoreCompileInputs.cache
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.dll
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/refint/C# proje1.dll
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.pdb
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/C# proje1.genruntimeconfig.cache
+/home/emre/Masaüstü/C#_Projeler/C# proje1/obj/Debug/net7.0/ref/C# proje1.dll
